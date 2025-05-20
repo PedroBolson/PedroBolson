@@ -77,10 +77,10 @@ In my free time, you might find me exploring new technologies, working on person
 
 I'm always open to exchanging ideas, collaborating on projects, and meeting new people.
 
-* 📧 **Email:** [pedbolson@gmail.com](mailto:pedbolson@gmail.com)
-* 💼 **LinkedIn:** [Pedro Bolson](https://www.linkedin.com/in/pedrobolson)
-* 🐱 **GitHub:** [PedroBolson](https://github.com/PedroBolson)
-* 🚀 **Portfolio:** [pedrobolson.club](https://pedrobolson.club)
+[![Email](https://img.shields.io/badge/Gmail-pedbolson%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedbolson@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Bolson-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bolson-086a03337/)  
+[![GitHub](https://img.shields.io/badge/GitHub-PedroBolson-181717?style=flat&logo=github&logoColor=white)](https://github.com/PedroBolson)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-pedrobolson.club-4285F4?style=flat&logo=firefox-browser&logoColor=white)](https://pedrobolson.club)  
 
 ---
 
