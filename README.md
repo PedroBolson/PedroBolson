@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Pedro Bolson
 
-<!--
-**PedroBolson/PedroBolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Pedro Bolson, a passionate full-stack developer focused on technology, innovation, and creating effective and scalable solutions. Welcome to my digital space!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=FFFFFF)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat)
+
+### ⚙️ Backend
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=FFFFFF)
+
+### 🔥 Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat\&logo=nginx\&logoColor=FFFFFF)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat\&logo=npm\&logoColor=FFFFFF)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=FFFFFF)
+![Amazon RDS](https://img.shields.io/badge/-RDS-FF9900?style=flat&logo=amazonrds&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=FFFFFF)
+
+### 🎨 UI/UX
+
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=FFFFFF)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat\&logo=framer\&logoColor=FFFFFF)
+
+---
+
+## 🚀 Recent Projects
+
+Here are some interesting projects I've recently developed:
+
+* **💬 Integrated Chat App**
+  Full application with React and NestJS, using AWS Cognito authentication and WhatsApp API integration.
+
+* **📅 Wedding Plan Project**
+  Complete wedding planning solution integrated with Google Calendar, secured with Firebase Cloud Functions.
+
+---
+
+## 📚 Studies & Certifications
+
+Currently focused on:
+
+* 📖 **AWS Certified Cloud Practitioner (CLF-C02)**
+* 📘 **Deepening Docker and Deployment Automation skills**
+* 📗 **Improving skills in Next.js, TailwindCSS, and Sass**
+
+---
+
+## 🌟 About Me
+
+I enjoy technical challenges and continuously strive to evolve in my career through ongoing learning and practical application of the latest web development and cloud computing concepts. My daily routine involves studying and practicing full-stack development with React, NestJS, AWS, and Firebase solutions.
+
+In my free time, you might find me exploring new technologies, working on personal projects, or planning my next trip! ✈️
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to exchanging ideas, collaborating on projects, and meeting new people.
+
+* 📧 **Email:** [pedbolson@gmail.com](mailto:pedbolson@gmail.com)
+* 💼 **LinkedIn:** [Pedro Bolson](https://www.linkedin.com/in/pedrobolson)
+* 🐱 **GitHub:** [PedroBolson](https://github.com/PedroBolson)
+* 🚀 **Portfolio:** [pedrobolson.club](https://pedrobolson.club)
+
+---
+
+✨ **"Code, Learn, Repeat."** ✨
