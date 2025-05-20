@@ -84,4 +84,11 @@ I'm always open to exchanging ideas, collaborating on projects, and meeting new 
 
 ---
 
+## 📊 GitHub Stats
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBolson&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBolson&layout=compact&theme=radical)
+
+---
+
 ✨ **"Code, Learn, Repeat."** ✨
