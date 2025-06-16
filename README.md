@@ -48,10 +48,13 @@ Hello! I'm Pedro Bolson, a passionate full-stack developer focused on technology
 Here are some interesting projects I've recently developed:
 
 * **💬 Integrated Chat App**
-  Full application with React and NestJS, using AWS Cognito authentication and WhatsApp API integration.
+  Full application with React and NestJS, using AWS Cognito authentication and WhatsApp API integration.  
 
 * **📅 Wedding Plan Project**
-  Complete wedding planning solution integrated with Google Calendar, secured with Firebase Cloud Functions.
+  Complete wedding planning solution integrated with Google Calendar, secured with Firebase Cloud Functions.  
+  
+* **🚛 Fleet Manager  
+Fleet management system with React and NestJS, featuring truck maintenance tracking, document uploads, and mileage monitoring.  
 
 ---
 
@@ -59,9 +62,10 @@ Here are some interesting projects I've recently developed:
 
 Currently focused on:
 
-* 📖 **AWS Certified Cloud Practitioner (CLF-C02)**
+* 📖 **AWS Certified Solutions Architect - Associate (SAA-C03)**
+* 📖 **AWS Certified AI Practitioner (AIF-C01)**
 * 📘 **Deepening Docker and Deployment Automation skills**
-* 📗 **Improving skills in Next.js, TailwindCSS, and Sass**
+* 📗 **Improving skills in Flutter, Mobile Apps**
 
 ---
 
