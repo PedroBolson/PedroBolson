@@ -47,10 +47,10 @@ Hello! I'm Pedro Bolson, a passionate full-stack developer focused on technology
 
 Here are some interesting projects I've recently developed:
 
-* **💬 Integrated Chat App**
+* **💬 Integrated Chat App**  
   Full application with React and NestJS, using AWS Cognito authentication and WhatsApp API integration.  
 
-* **📅 Wedding Plan Project**
+* **📅 Wedding Plan Project**  
   Complete wedding planning solution integrated with Google Calendar, secured with Firebase Cloud Functions.  
   
 * **🚛 Fleet Manager**  
