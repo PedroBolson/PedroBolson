@@ -53,7 +53,7 @@ Here are some interesting projects I've recently developed:
 * **📅 Wedding Plan Project**
   Complete wedding planning solution integrated with Google Calendar, secured with Firebase Cloud Functions.  
   
-* **🚛 Fleet Manager  
+* **🚛 Fleet Manager**  
 Fleet management system with React and NestJS, featuring truck maintenance tracking, document uploads, and mileage monitoring.  
 
 ---
