@@ -30,6 +30,7 @@
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 ###
+<!-- 3 linhas x 5 colunas para evitar overflow no mobile -->
 
 <table align="center">
   <tr>
@@ -38,17 +39,20 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /><br>Next.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /><br>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" /><br>Tailwind</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo" /><br>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /><br>C#</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /><br>Jest</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" /><br>NestJS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" /><br>AWS</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /><br>Firebase</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /><br>NPM</td>
   </tr>
 </table>
 
@@ -94,14 +98,10 @@ In my free time, you might find me exploring new technologies, working on person
 
 <h2 align="center">📊 Contributions</h2>
 
-<p align="center">
-Below you can see my contribution history represented as a fun snake animation that grows as I code 🐍
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBolson/PedroBolson/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/PedroBolson/PedroBolson/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation (last 12 months with month labels on top)" src="https://raw.githubusercontent.com/PedroBolson/PedroBolson/output/github-contribution-grid-snake.svg" width="900" />
   </picture>
 </div>
 
