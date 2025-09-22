@@ -7,13 +7,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroBolson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBolson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PedroBolson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=7200"
+    height="150"
+    alt="GitHub stats"
+  />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBolson&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&cache_seconds=7200"
+    height="150"
+    alt="Top languages"
+  />
 </div>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
@@ -22,40 +28,12 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,next,cs,jest,nest,html,tailwind,aws,firebase,docker,npm,postgres,mysql&perline=8"
+    height="44"
+    alt="Tech stack icons"
+  />
 </div>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
@@ -63,11 +41,10 @@
 
 ###
 
-<p align="center">I enjoy technical challenges and continuously strive to evolve in my career through ongoing learning and practical application of the latest web development and cloud computing concepts. My daily routine involves studying and practicing full-stack development with React, NestJS, AWS, and Firebase solutions.<br><br>In my free time, you might find me exploring new technologies, working on personal projects, or planning my next trip! ✈️</p>
-
-###
-
-<h1 align="left"></h1>
+<p align="center">
+I enjoy technical challenges and continuously strive to evolve in my career through ongoing learning and practical application of the latest web development and cloud computing concepts. My daily routine involves studying and practicing full-stack development with React, NestJS, AWS, and Firebase solutions.<br><br>
+In my free time, you might find me exploring new technologies, working on personal projects, or planning my next trip! ✈️
+</p>
 
 ###
 
@@ -86,16 +63,16 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/PedroBolson/PedroBolson/output/snake.svg" alt="Snake animation" />
+<!-- Snake Animation -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/PedroBolson/PedroBolson/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PedroBolson.PedroBolson&"  />
 </div>
-
-###
