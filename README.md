@@ -1,97 +1,101 @@
-# 👋 Pedro Bolson
+<h1 align="center">👋 Pedro Bolson</h1>
 
-Hello! I'm Pedro Bolson, a passionate full-stack developer focused on technology, innovation, and creating effective and scalable solutions. Welcome to my digital space!
+###
 
----
+<h6 align="left">Hello! I'm Pedro Bolson, a passionate full-stack developer focused on technology, innovation, and creating effective and scalable solutions. Welcome to my digital space!</h6>
 
-## 🛠️ Technologies & Tools
+###
 
-### 🌐 Frontend
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroBolson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBolson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=FFFFFF)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=FFFFFF)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat)
+###
 
-### ⚙️ Backend
+<h1 align="left"></h1>
 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=FFFFFF)
+###
 
-### 🔥 Cloud & DevOps
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=FFFFFF)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat\&logo=nginx\&logoColor=FFFFFF)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat\&logo=npm\&logoColor=FFFFFF)
+###
 
-### 🗄️ Databases
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=FFFFFF)
-![Amazon RDS](https://img.shields.io/badge/-RDS-FF9900?style=flat&logo=amazonrds&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=FFFFFF)
+###
 
-### 🎨 UI/UX
+<h1 align="left"></h1>
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=FFFFFF)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat\&logo=framer\&logoColor=FFFFFF)
+###
 
----
+<h2 align="center">🌟 About Me</h2>
 
-## 🚀 Recent Projects
+###
 
-Here are some interesting projects I've recently developed:
+<p align="center">I enjoy technical challenges and continuously strive to evolve in my career through ongoing learning and practical application of the latest web development and cloud computing concepts. My daily routine involves studying and practicing full-stack development with React, NestJS, AWS, and Firebase solutions.<br><br>In my free time, you might find me exploring new technologies, working on personal projects, or planning my next trip! ✈️</p>
 
-* **💬 Integrated Chat App**  
-  Full application with React and NestJS, using AWS Cognito authentication and WhatsApp API integration.  
+###
 
-* **📅 Wedding Plan Project**  
-  Complete wedding planning solution integrated with Google Calendar, secured with Firebase Cloud Functions.  
-  
-* **🚛 Fleet Manager**  
-Fleet management system with React and NestJS, featuring truck maintenance tracking, document uploads, and mileage monitoring.  
+<h1 align="left"></h1>
 
----
+###
 
-## 📚 Studies & Certifications
+<h2 align="center">📫 Let's Connect!</h2>
 
-Currently focused on:
+###
 
-* 📖 **AWS Certified Solutions Architect - Associate (SAA-C03)**
-* 📖 **AWS Certified AI Practitioner (AIF-C01)**
-* 📘 **Deepening Docker and Deployment Automation skills**
-* 📗 **Improving skills in Flutter, Mobile Apps**
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-bolson-086a03337/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:pedbolson@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🌟 About Me
+<h1 align="left"></h1>
 
-I enjoy technical challenges and continuously strive to evolve in my career through ongoing learning and practical application of the latest web development and cloud computing concepts. My daily routine involves studying and practicing full-stack development with React, NestJS, AWS, and Firebase solutions.
+###
 
-In my free time, you might find me exploring new technologies, working on personal projects, or planning my next trip! ✈️
+<img src="https://raw.githubusercontent.com/PedroBolson/PedroBolson/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 📫 Let's Connect!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PedroBolson.PedroBolson&"  />
+</div>
 
-I'm always open to exchanging ideas, collaborating on projects, and meeting new people.
-
-[![Email](https://img.shields.io/badge/Gmail-pedbolson%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedbolson@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Bolson-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bolson-086a03337/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-pedrobolson.club-4285F4?style=flat&logo=firefox-browser&logoColor=white)](https://pedrobolson.club)  
-
----
-
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBolson&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBolson&layout=compact&theme=radical)
-
----
-
-✨ **"Code, Learn, Repeat."** ✨
+###
