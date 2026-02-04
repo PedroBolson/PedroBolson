@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=PedroBolson&theme=dracula&hide_border=false" 
-    height="180" 
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=PedroBolson&theme=dracula&hide_border=false"
+    height="180"
     alt="GitHub streak stats"
   />
 </div>
