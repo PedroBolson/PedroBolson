@@ -7,18 +7,10 @@
 ###
 
 <div align="center">
-  <!-- GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=PedroBolson&theme=dracula&hide_border=false" 
-    height="150" 
+    height="180" 
     alt="GitHub streak stats"
-  />
-
-  <!-- Linguagem principal (simples e estável) -->
-  <img 
-    src="https://img.shields.io/github/languages/top/PedroBolson/PedroBolson?style=for-the-badge&color=bd93f9" 
-    height="40"
-    alt="Top language"
   />
 </div>
 
