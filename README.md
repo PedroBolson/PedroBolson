@@ -7,17 +7,18 @@
 ###
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PedroBolson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=7200"
-    height="150"
-    alt="GitHub stats"
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=PedroBolson&theme=dracula&hide_border=false" 
+    height="150" 
+    alt="GitHub streak stats"
   />
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBolson&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&cache_seconds=7200"
-    height="150"
-    alt="Top languages"
+
+  <!-- Linguagem principal (simples e estável) -->
+  <img 
+    src="https://img.shields.io/github/languages/top/PedroBolson/PedroBolson?style=for-the-badge&color=bd93f9" 
+    height="40"
+    alt="Top language"
   />
 </div>
 
